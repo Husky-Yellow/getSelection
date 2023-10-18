@@ -1,0 +1,9 @@
+/* //  着重号 <dot>111 洋葱数学</dot> */
+dot {
+  -webbit-text-emphasis: black open;
+  text-emphasis: black open;
+  -webkit-text-emphasis-style: '●';
+  text-emphasis-style: '●';
+  -webkit-text-emphasis-position: under;
+  text-emphasis-position: under;
+}
